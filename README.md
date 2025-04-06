@@ -51,8 +51,8 @@ Blog y curso para empresarios: entender la IA y aplicarla paso a paso con sentid
 ## 🔍 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaeljara-dev&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeljara-dev&layout=compact&theme=tokyonight" alt="langs" height="150"/>
 </p>
 
 ---

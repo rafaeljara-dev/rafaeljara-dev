@@ -1,14 +1,26 @@
 <!-- Encabezado animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hola%20👋%20soy%20[TU%20NOMBRE]&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hola%20👋%20soy%20[Rafael%20Jara]&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# 👋 ¡Hola! Soy Rafael Jara – Desarrollador con visión estratégica
+## 🤝 Sobre mí
 
 Soy desarrollador y consultor, enfocado en crear soluciones que realmente le sirvan a las personas y negocios.  
 Me gusta entender lo que hay detrás de cada herramienta: su propósito, su utilidad y si realmente aporta valor.
 
 He trabajado con pequeñas empresas, profesionales independientes y proyectos personales que nacen de ideas reales, no de modas.
+
+---
+
+## ⚙️ Stack de tecnologías
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
 ---
 
@@ -35,17 +47,6 @@ Blog y curso para empresarios: entender la IA y aplicarla paso a paso con sentid
 
 ---
 
-## ⚙️ Stack de tecnologías
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-
----
 
 ## 🔍 GitHub Stats
 
@@ -68,6 +69,7 @@ Blog y curso para empresarios: entender la IA y aplicarla paso a paso con sentid
 
 - 🔒 `miretiro.online` → [Visitar sitio](https://miretiro.online)  
   *Desarrollo privado para retiro profesional personalizado. Enfocado en UX clara y funcionalidades específicas.*
+
 
 
 ---

@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hola%20👋%20soy%20[Rafael%20Jara]&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hola%20👋%20soy%20Rafael%20Jara&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ## 🤝 Sobre mí
